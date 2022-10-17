@@ -17,3 +17,5 @@ syntax: glob
 .tox/
 build/
 dist/
+
+.pybuild
