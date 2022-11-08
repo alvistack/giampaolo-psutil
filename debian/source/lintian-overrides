@@ -1,0 +1,4 @@
+python-psutil source: file-without-copyright-information
+python-psutil source: no-debian-changes
+python-psutil source: source-contains-prebuilt-windows-binary
+python-psutil source: source-package-encodes-python-version
