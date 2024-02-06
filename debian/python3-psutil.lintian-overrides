@@ -1,0 +1,4 @@
+python3-psutil: copyright-without-copyright-notice
+python3-psutil: initial-upload-closes-no-bugs
+python3-psutil: no-manual-page
+python3-psutil: zero-byte-file-in-doc-directory
