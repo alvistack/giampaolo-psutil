@@ -1,0 +1,5 @@
+python-psutil (100:5.9.8-1) UNRELEASED; urgency=medium
+
+  * https://github.com/giampaolo/psutil/releases/tag/release-5.9.8
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sat, 20 Jan 2024 10:47:44 +0800
