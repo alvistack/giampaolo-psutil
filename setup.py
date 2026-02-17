@@ -465,8 +465,8 @@ def main():
         name='psutil',
         version=VERSION,
         description="Cross-platform lib for process and system monitoring.",
-        long_description=get_long_description(),
-        long_description_content_type='text/x-rst',
+        #long_description=get_long_description(),
+        #long_description_content_type='text/x-rst',
         # fmt: off
         keywords=[
             'ps', 'top', 'kill', 'free', 'lsof', 'netstat', 'nice', 'tty',
